@@ -1,0 +1,305 @@
+https://pokeapi.co/api/v2/pokemon/charizard
+
+{
+    "abilities": [
+        {
+            "ability": {
+                "name": "blaze",
+                "url": "https://pokeapi.co/api/v2/ability/66/"
+            },
+            "is_hidden": false,
+            "slot": 1
+        },
+        {
+            "ability": {
+                "name": "solar-power",
+                "url": "https://pokeapi.co/api/v2/ability/94/"
+            },
+            "is_hidden": true,
+            "slot": 3
+        }
+    ],
+    "base_experience": 240,
+    "forms": [
+        {
+            "name": "charizard",
+            "url": "https://pokeapi.co/api/v2/pokemon-form/6/"
+        }
+    ],
+    "game_indices": [
+        {
+            "game_index": 180,
+            "version": {
+                "name": "red",
+                "url": "https://pokeapi.co/api/v2/version/1/"
+            }
+        },
+        {
+            "game_index": 180,
+            "version": {
+                "name": "blue",
+                "url": "https://pokeapi.co/api/v2/version/2/"
+            }
+        },
+        {
+            "game_index": 180,
+            "version": {
+                "name": "yellow",
+                "url": "https://pokeapi.co/api/v2/version/3/"
+            }
+        },
+        {
+            "game_index": 6,
+            "version": {
+                "name": "gold",
+                "url": "https://pokeapi.co/api/v2/version/4/"
+            }
+        },
+        {
+            "game_index": 6,
+            "version": {
+                "name": "silver",
+                "url": "https://pokeapi.co/api/v2/version/5/"
+            }
+        },
+        {
+            "game_index": 6,
+            "version": {
+                "name": "crystal",
+                "url": "https://pokeapi.co/api/v2/version/6/"
+            }
+        },
+        {
+            "game_index": 6,
+            "version": {
+                "name": "ruby",
+                "url": "https://pokeapi.co/api/v2/version/7/"
+            }
+        },
+        {
+            "game_index": 6,
+            "version": {
+                "name": "sapphire",
+                "url": "https://pokeapi.co/api/v2/version/8/"
+            }
+        },
+        {
+            "game_index": 6,
+            "version": {
+                "name": "emerald",
+                "url": "https://pokeapi.co/api/v2/version/9/"
+            }
+        },
+        {
+            "game_index": 6,
+            "version": {
+                "name": "firered",
+                "url": "https://pokeapi.co/api/v2/version/10/"
+            }
+        },
+
+https://pokeapi.co/api/v2/pokemon/squirtle
+{
+    "abilities": [
+        {
+            "ability": {
+                "name": "torrent",
+                "url": "https://pokeapi.co/api/v2/ability/67/"
+            },
+            "is_hidden": false,
+            "slot": 1
+        },
+        {
+            "ability": {
+                "name": "rain-dish",
+                "url": "https://pokeapi.co/api/v2/ability/44/"
+            },
+            "is_hidden": true,
+            "slot": 3
+        }
+    ],
+    "base_experience": 63,
+    "forms": [
+        {
+            "name": "squirtle",
+            "url": "https://pokeapi.co/api/v2/pokemon-form/7/"
+        }
+    ],
+    "game_indices": [
+        {
+            "game_index": 177,
+            "version": {
+                "name": "red",
+                "url": "https://pokeapi.co/api/v2/version/1/"
+            }
+        },
+        {
+            "game_index": 177,
+            "version": {
+                "name": "blue",
+                "url": "https://pokeapi.co/api/v2/version/2/"
+            }
+        },
+        {
+            "game_index": 177,
+            "version": {
+                "name": "yellow",
+                "url": "https://pokeapi.co/api/v2/version/3/"
+            }
+        },
+        {
+            "game_index": 7,
+            "version": {
+                "name": "gold",
+                "url": "https://pokeapi.co/api/v2/version/4/"
+            }
+        },
+        {
+            "game_index": 7,
+            "version": {
+                "name": "silver",
+                "url": "https://pokeapi.co/api/v2/version/5/"
+            }
+        },
+
+https://pokeapi.co/api/v2/pokemon/mewtwo
+{
+    "abilities": [
+        {
+            "ability": {
+                "name": "pressure",
+                "url": "https://pokeapi.co/api/v2/ability/46/"
+            },
+            "is_hidden": false,
+            "slot": 1
+        },
+        {
+            "ability": {
+                "name": "unnerve",
+                "url": "https://pokeapi.co/api/v2/ability/127/"
+            },
+            "is_hidden": true,
+            "slot": 3
+        }
+    ],
+    "base_experience": 306,
+    "forms": [
+        {
+            "name": "mewtwo",
+            "url": "https://pokeapi.co/api/v2/pokemon-form/150/"
+        }
+    ],
+    "game_indices": [
+        {
+            "game_index": 131,
+            "version": {
+                "name": "red",
+                "url": "https://pokeapi.co/api/v2/version/1/"
+            }
+        },
+        {
+            "game_index": 131,
+            "version": {
+                "name": "blue",
+                "url": "https://pokeapi.co/api/v2/version/2/"
+            }
+        },
+        {
+            "game_index": 131,
+            "version": {
+                "name": "yellow",
+                "url": "https://pokeapi.co/api/v2/version/3/"
+            }
+        },
+
+https://pokeapi.co/api/v2/pokemon/articuno
+{
+    "abilities": [
+        {
+            "ability": {
+                "name": "pressure",
+                "url": "https://pokeapi.co/api/v2/ability/46/"
+            },
+            "is_hidden": false,
+            "slot": 1
+        },
+        {
+            "ability": {
+                "name": "snow-cloak",
+                "url": "https://pokeapi.co/api/v2/ability/81/"
+            },
+            "is_hidden": true,
+            "slot": 3
+        }
+    ],
+    "base_experience": 261,
+    "forms": [
+        {
+            "name": "articuno",
+            "url": "https://pokeapi.co/api/v2/pokemon-form/144/"
+        }
+    ],
+    "game_indices": [
+        {
+            "game_index": 74,
+            "version": {
+                "name": "red",
+                "url": "https://pokeapi.co/api/v2/version/1/"
+            }
+        },
+        {
+            "game_index": 74,
+            "version": {
+                "name": "blue",
+                "url": "https://pokeapi.co/api/v2/version/2/"
+            }
+        },
+
+https://pokeapi.co/api/v2/pokemon/mew
+{
+    "abilities": [
+        {
+            "ability": {
+                "name": "synchronize",
+                "url": "https://pokeapi.co/api/v2/ability/28/"
+            },
+            "is_hidden": false,
+            "slot": 1
+        }
+    ],
+    "base_experience": 270,
+    "forms": [
+        {
+            "name": "mew",
+            "url": "https://pokeapi.co/api/v2/pokemon-form/151/"
+        }
+    ],
+    "game_indices": [
+        {
+            "game_index": 21,
+            "version": {
+                "name": "red",
+                "url": "https://pokeapi.co/api/v2/version/1/"
+            }
+        },
+        {
+            "game_index": 21,
+            "version": {
+                "name": "blue",
+                "url": "https://pokeapi.co/api/v2/version/2/"
+            }
+        },
+        {
+            "game_index": 21,
+            "version": {
+                "name": "yellow",
+                "url": "https://pokeapi.co/api/v2/version/3/"
+            }
+        },
+        {
+            "game_index": 151,
+            "version": {
+                "name": "gold",
+                "url": "https://pokeapi.co/api/v2/version/4/"
+            }
+        },
